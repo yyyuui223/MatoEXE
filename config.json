@@ -1,0 +1,18 @@
+{
+  "app_config": {
+    "latest_version": "3.9.46",
+    "force_update": true,
+    "update_url": "https://www.mediafire.com/file/your_new_apk",
+    "status_message": "ระบบ MATO CODE ออนไลน์ผ่าน GitHub แล้ว! 😈🤑",
+    "app_name": "MATO CODE"
+  },
+  "server_config": {
+    "cloudflare_url": "https://approximate-bean-ping-top.trycloudflare.com",
+    "is_server_online": true,
+    "last_sync": "2026-02-10"
+  },
+  "announcement": {
+    "title": "ประกาศจากบอส",
+    "body": "ระบบออนไลน์สมบูรณ์แบบแล้ว พร้อมลุย!"
+  }
+}
