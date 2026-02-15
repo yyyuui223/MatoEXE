@@ -1,0 +1,36 @@
+{
+  "system_config": {
+    "target_api": "https://your-cloudflare-worker.workers.dev",
+    "app_version": "1.47.588",
+    "update_url": "https://github.com/yyyuui223/MatoEXE/raw/main/app.apk"
+  },
+  "admin_commands": {
+    "notification": "พิมพ์ข้อความแจ้งเตือนตรงนี้...",
+    "maintenance_mode": false
+  },
+  "categories": [
+    {
+      "id": "cat_001",
+      "name": "ใส่ชื่อหมวดหมู่ที่บอสต้องการที่นี่",
+      "is_vip": false,
+      "items": []
+    }
+  ],
+  "users": {
+    "active_list": [],
+    "blacklist": []
+  },
+  "finance": {
+    "pending": [
+      {
+        "user": "ชื่อคนสมัคร",
+        "link": "ลิงก์อั่งเปา",
+        "slip": "ลิงก์รูปสลิป",
+        "status": "รออนุมัติ"
+      }
+    ],
+    "prices": {
+      "vip_unlock": 99
+    }
+  }
+}
