@@ -1,17 +1,17 @@
 {
   "system_config": {
-    "target_api": "https://your-cloudflare-worker.workers.dev",
+    "target_api": "https://fails-wine-pac-absolute.trycloudflare.com",
     "app_version": "1.47.588",
     "update_url": "https://github.com/yyyuui223/MatoEXE/raw/main/app.apk"
   },
   "admin_commands": {
-    "notification": "พิมพ์ข้อความแจ้งเตือนตรงนี้...",
+    "notification": "ยินดีต้อนรับสู่ MATO GHOST! ระบบพร้อมใช้งานแล้ว",
     "maintenance_mode": false
   },
   "categories": [
     {
       "id": "cat_001",
-      "name": "ใส่ชื่อหมวดหมู่ที่บอสต้องการที่นี่",
+      "name": "เรื่องผีจากทางบ้าน",
       "is_vip": false,
       "items": []
     }
@@ -23,9 +23,9 @@
   "finance": {
     "pending": [
       {
-        "user": "ชื่อคนสมัคร",
-        "link": "ลิงก์อั่งเปา",
-        "slip": "ลิงก์รูปสลิป",
+        "user": "MatoAdmin",
+        "link": "https://gift.truemoney.com/...",
+        "slip": "https://...",
         "status": "รออนุมัติ"
       }
     ],
